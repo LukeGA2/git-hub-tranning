@@ -1,0 +1,19 @@
+When you want to upload some files,
+you need to download some software first, github and git shell
+install them,
+login,
+clone your repository,
+you will find a floder name as your repository,
+add the new file into the floder,
+runs the shell one.
+type cd <name>
+git status //check gile status
+git add <name>//upload file
+git commit -m "summary here"//commit and add summary
+
+
+then you will find the right corner of github has "1" sign,
+click syn,
+after few seconds,
+your files are upload successfully.
+Done.
